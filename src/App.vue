@@ -27,8 +27,8 @@
 </template>
 
 <script>
-import tabBar from "./components/tab/tabBar";
-import tabBarItem from "./components/tab/tabBarItem";
+import tabBar from "./components/common/tab/tabBar";
+import tabBarItem from "./components/common/tab/tabBarItem";
 
 export default {
   name: 'app',

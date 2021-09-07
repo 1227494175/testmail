@@ -3,7 +3,7 @@ import axios from "axios";
 //对网络请求模块进行封装
 export function request(config) {
     const instance = axios.create({
-        baseURL: 'http://127.0.0.1:5000/snippets',
+        baseURL: 'http://152.136.185.210:7878/api/m5',
         timeout: 5000,
     })
 
