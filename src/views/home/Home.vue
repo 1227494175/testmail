@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>首页</h2>
+    <h2>首页11</h2>
     <h2>-----------------演示modules里面的模块内容-----------</h2>
 <!--    <h2>{{$store.state.a.message}}</h2>-->
     <h2>{{$store.getters.modifyName}}</h2>
